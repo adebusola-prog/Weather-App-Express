@@ -3,7 +3,7 @@ This is a simple web application built with Node.js and Express.js that retrieve
 The application also includes rate limiting to prevent overload of requests to the API.
 
 Installation
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/adebusola-prog/weather-app.git
 
 cd weather-app
 npm install
